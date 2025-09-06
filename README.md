@@ -1,4 +1,6 @@
 # SnakeGame
+<img src="Snake.gif" alt="Snake Gameplay" width="300" />
+
 This is a simple implementation of the classic Snake Game written in C++ that runs in the terminal. The game logic is handled using basic input and drawing operations.
 
 🎮 How to Play
